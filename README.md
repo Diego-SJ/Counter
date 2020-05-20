@@ -1,5 +1,5 @@
 Block encryption
-Cipher Feedback
+Counter
 
 Steps to run
 
